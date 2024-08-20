@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raistlinhourglass1
-- 👀 I’m interested in CyberSecurity, AI development, and cloud security 
-- 🌱 I’m currently learning Computer Science and LoneStar College
+- 👀 I’m interested in Cybersecurity, AI development, and cloud security 
+- 🌱 I’m currently learning Cybersecurity at the University of Houston
 - 📫 How to reach me:
 - Email: HendrixJustin908@gmail.com
 - Discord: raistlin_hourglass
