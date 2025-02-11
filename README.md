@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - Email: HendrixJustin908@gmail.com
 - Discord: raistlin_hourglass
-- 
+- Linkedin: www.linkedin.com/in/hendrixjustin908
 
 <!---
 Raistlinhourglass1/Raistlinhourglass1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
