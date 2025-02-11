@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raistlinhourglass1
+- 👋 Hi, I’m Justin!
 - 👀 I’m interested in Cybersecurity, AI development, and cloud security 
 - 🌱 I’m currently learning Cybersecurity at the University of Houston
 - 📫 How to reach me:
